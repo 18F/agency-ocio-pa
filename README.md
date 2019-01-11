@@ -24,7 +24,7 @@ TKTK
 - **Shipping News**: Update document during the week, submit on Fridays. You can
   find all the shipping news documents in the [`shipping-news`
   directory](./shipping-news).
-- **Tracking work**: [Github Projects](https://github.com/18F/fema-ocio-pa/projects) 
+- **Tracking work**: [ZenHub](https://github.com/18F/agency-ocio-pa/pulls#workspaces/ei-path-analysis-5c350b1524dda4712ef4bb60/boards)
 - **TBDAgency + 18F check ins**: Stay tuned
 - **Slack, 18F + TBDAgency**: Stay tuned
 - **CPS + 18F check-ins**: weekly to discuss budget and overall progress/blockers
