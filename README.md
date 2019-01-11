@@ -1,4 +1,4 @@
-# FEMA OCIO Cloud Adoption Path Analysis
+# TBDAgency OCIO Cloud Adoption Path Analysis
 
 ## Project Description
 
@@ -12,7 +12,7 @@ TKTK
 - Mark Hopson, Acquisition
 - Peter Burkholder, Engineering [@pburkholder](https://github.com/pburkholder)
 
-## FEMA Partners
+## TBDAgency Partners
 
 - Mark Lucas
 - Jack Montgomery
@@ -25,8 +25,8 @@ TKTK
   find all the shipping news documents in the [`shipping-news`
   directory](./shipping-news).
 - **Tracking work**: [Github Projects](https://github.com/18F/fema-ocio-pa/projects) 
-- **FEMA + 18F check ins**: Stay tuned
-- **Slack, 18F + FEMA**: Stay tuned
+- **TBDAgency + 18F check ins**: Stay tuned
+- **Slack, 18F + TBDAgency**: Stay tuned
 - **CPS + 18F check-ins**: weekly to discuss budget and overall progress/blockers
 - **Retrospectives**: Bi-weekly
 
